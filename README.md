@@ -17,7 +17,9 @@ compose install
 ```
 npm install
 ```
-## Dont Forget to Migrate and Edit .env !
+## Database Things
+
+Dont Forget to Migrate and Edit .env after making mysql database !
 
 ```
 php artisan migrate
