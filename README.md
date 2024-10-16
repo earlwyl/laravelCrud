@@ -24,6 +24,9 @@ Dont Forget to Migrate and Edit .env after making mysql database !
 ```
 php artisan migrate
 ```
+## About This Study
+Study about laravel, implementing Controller, Model, Migration. and how to make a simple CRUD features.
+
 
 ## About Laravel
 
